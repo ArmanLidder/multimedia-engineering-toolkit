@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Large Media Files (Video Assets)
+**/*.mp4
+**/*.avi
+**/*.mkv
+**/*.mov
+**/*.flv
+**/*.wmv
+
+# Archives
+**/*.zip
+**/*.tar.gz
+**/*.tar
+**/*.7z
+**/*.rar
+
+# Environments
+**/.env
+**/.venv
+**/env/
+**/venv/
+**/ENV/
+
+# Unit test / coverage
+**/.pytest_cache/
+**/.coverage
+**/.cache
+
+# IDE and System Files
+**/.idea/
+**/.vscode/
+**/*.swp
+**/*.swo
+.DS_Store
+Thumbs.db

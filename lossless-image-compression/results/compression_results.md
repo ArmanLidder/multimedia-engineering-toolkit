@@ -1,0 +1,5 @@
+| image                | method   | mode   | dimensions   |   original_bytes |   compressed_bytes |   compression_percent |   compression_ratio |   original_bpp |   compressed_bpp | lossless_ok   |
+|:---------------------|:---------|:-------|:-------------|-----------------:|-------------------:|----------------------:|--------------------:|---------------:|-----------------:|:--------------|
+| image1_natural.png   | LZW      | RGB    | 512x768      |          1179648 |            1507380 |              -27.7822 |            0.782582 |             24 |         30.6677  | True          |
+| image2_synthetic.png | LZ77     | P      | 477x599      |           285723 |             254348 |               10.9809 |            1.12335  |              8 |          7.12153 | True          |
+| image3_binary.png    | RLE      | I;16   | 1024x1024    |          2097152 |             867948 |               58.613  |            2.41622  |             16 |          6.62192 | True          |

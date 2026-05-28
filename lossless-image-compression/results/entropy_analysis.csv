@@ -1,0 +1,4 @@
+file,mode,height,width,gray_min,gray_max,unique_gray_values,global_entropy_bits,mean_local_entropy_bits
+image1_natural.png,RGB,512,768,0,255,255,7.483628140891832,3.369565725326538
+image2_synthetic.png,P,477,599,0,255,162,4.003176901925409,2.9226579666137695
+image3_binary.png,I;16,1024,1024,0,255,254,4.939192649308779,0.6115818023681641

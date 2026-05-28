@@ -1,0 +1,4 @@
+image,method,mode,dimensions,original_bytes,compressed_bytes,compression_percent,compression_ratio,original_bpp,compressed_bpp,lossless_ok
+image1_natural.png,LZW,RGB,512x768,1179648,1507380,-27.782185872395825,0.7825816980456156,24.0,30.667724609375,True
+image2_synthetic.png,LZ77,P,477x599,285723,254348,10.980915082089993,1.123354616509664,8.0,7.121526793432801,True
+image3_binary.png,RLE,I;16,1024x1024,2097152,867948,58.613014221191406,2.4162184831349345,16.0,6.621917724609375,True
